@@ -1,0 +1,16 @@
+body {
+    background-color: yellow;
+}
+
+p {
+    font-size: 25px;
+}
+
+#show_sketch {
+    float:right;
+}
+
+canvas {
+    border: 5px dotted red;
+    border-radius: 20px;
+}
